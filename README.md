@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayojayz
 - 👀 I’m interested in ...computer science
-- 🌱 I’m currently learning ...JavaScript
+- 🌱 I’m currently learning ...html, css & javascript
 - 💞️ I’m looking to collaborate on ...website designing
 - 📫 How to reach me ...luutuyusuf56@gmail.com
 
